@@ -1,0 +1,14 @@
+Ejercicio 2
+El propósito de este ejercicio es practicar la organización de elementos al estilo de una tabla.
+
+- La página debe mostrar en forma de tabla varias imágenes
+    * 7 maravillas del mundo
+    * 7 mejores obras de arte
+    * Calendario de planeación
+    * TOP 7 álbumes del momento
+- Separar html de sus estilos
+- No usar TABLE solo clases con propiedad display
+- Crear un host gratuito
+- Subir mi página al host
+- Adjuntar mi proyecto en un comprimido (.zip o .rar)
+- Agregar como comentario de la tarea la URL de su página web.

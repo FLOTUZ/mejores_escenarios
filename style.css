@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Sansita+Swashed:wght@300&display=swap');
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: 90%;
+    width: 90%;
+    border-radius: 10px;
+}
+
+body {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+.title {
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 45px;
+    margin-bottom: 50px;
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+    /*Margin*/
+    margin-top: 10px;
+    /*Padding*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /*Sombras*/
+    box-shadow: -1px 6px 20px 0px black;
+}
+
+.table {
+    display: table;
+    text-align: center;
+    /*Margin*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.column {
+    display: table-column;
+}
+
+.row {
+    display: table-row;
+}
+
+.cell {
+    display: table-cell;
+}
+
+.card {
+    border-radius: 10px;
+    /*Dimensiones*/
+    width: 400px;
+    height: auto;
+    /*Margins*/
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    /*Paddings*/
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /*Sombras*/
+    -webkit-box-shadow: 10px 10px 116px -71px rgba(133, 102, 133, 1);
+    -moz-box-shadow: 10px 10px 116px -71px rgba(133, 102, 133, 1);
+    box-shadow: 10px 10px 116px -71px rgba(133, 102, 133, 1);
+}
+
+.sub {
+    margin-left: 15px;
+    margin-right: 15px;
+    font-size: 15px;
+    color: gray;
+}
+
+.made-whith_love {
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.footer {
+    background-color: black;
+    height: 300px;
+    /*Shadow*/
+    -webkit-box-shadow: inset 10px 200px 27px -52px rgba(255, 255, 255, 1);
+    -moz-box-shadow: inset 10px 200px 27px -52px rgba(255, 255, 255, 1);
+    box-shadow: inset 10px 200px 27px -52px rgba(255, 255, 255, 1);
+}
